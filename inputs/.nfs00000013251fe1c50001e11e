@@ -1,0 +1,13 @@
+#id	pet_file_id	name	spec	viability	arrest_phase	stability	monotonicity
+1	1	F03_cln3del	3	viable		LT5%	0
+2	1	F05_bck2del	5	viable		LT5%	0
+3	1	F07_sic1del	7	viable		LT5%	0
+4	1	F10_ckidel	11	viable		LT5%	0
+5	1	F13_cln2del	13	viable		LT5%	0
+6	1	F12_swi5del	14	viable		LT5%	0
+7	1	F16_clb5del clb6del	17	viable		LT5%	0
+8	1	F19_whi5del	21	viable		LT5%	-1
+9	1	F20_cdh1del	22	viable		LT5%	0
+10	1	F21_CDH1_constitutive	23	inviable	G2	NULL	NULL
+11	1	F22_clb2del	24	inviable	G2	NULL	NULL
+12	1	F23_CLB1 clb2del	25	viable		LT5%	1

@@ -1,0 +1,16 @@
+#MutantID	MutantName	genes	viability	type
+1	a_del	1	viable	source
+2	b_del	2	viable	source
+3	c_del	3	viable	source
+4	d_del	4	viable	source
+5	a_del|b_del	1,2	inviable	none
+6	a_del|c_del	1,3	viable	none
+7	a_del|d_del	1,4	viable	none
+8	b_del|c_del	2,3	viable	none
+9	b_del|d_del	2,4	viable	none
+10	c_del|d_del	3,4	viable	none
+11	a_del|b_del|c_del	1,2,3	viable	target
+12	a_del|b_del|d_del	1,2,4	viable	target
+13	a_del|c_del|d_del	1,3,4	viable	none
+14	b_del|c_del|d_del	2,3,4	inviable	none
+15	a_del|b_del|c_del|d_del	1,2,3,4	viable	target
