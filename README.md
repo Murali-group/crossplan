@@ -3,9 +3,9 @@ The CrossPlan source code for systematically planning genetic cross experiments
 
 ### Dependencies 
 Python packages:
-  * <a href= https://www.ibm.com/support/knowledgecenter/SSSA5P_12.7.0/ilog.odms.cplex.help/CPLEX/GettingStarted/topics/set_up/Python_setup.html> cplex </a> 
+  * <a href= https://www.ibm.com/support/knowledgecenter/SSSA5P_12.7.0/ilog.odms.cplex.help/CPLEX/GettingStarted/topics/set_up/Python_setup.html> CPLEX </a>. 
 
-Usage: 
+### Usage: 
 python master-script.py --mutantInfoFile=inputs/example-infoFile.txt
 
 ### License
